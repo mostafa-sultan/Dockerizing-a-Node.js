@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: mostafasoltan/email-system-nodejs:latest
+          tags: mostafasoltan/email-system:latest
